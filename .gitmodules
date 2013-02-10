@@ -1,0 +1,3 @@
+[submodule "libdcpu-cc"]
+	path = libdcpu-cc
+	url = git@github.com:r4d2/dcpu-cc.git
